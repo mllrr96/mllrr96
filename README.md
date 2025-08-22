@@ -1,6 +1,6 @@
 # Hi, I'm Mo 👋  
 
-🎓 Software Engineering Student at AUIS  
+🎓 Software Engineering Student at [AUIS](https://auis.edu.krd/)  
 💻 Interested in coding, robotics, and microcontrollers  
 🌱 Currently learning **Spring Boot – Java**  
 
